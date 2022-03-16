@@ -2,4 +2,4 @@
 
 
 
-데이터 출처: https://www.kaggle.com/vijayuv/onlineretail
+데이터 출처: http://archive.ics.uci.edu/ml/datasets/Online+Retail
