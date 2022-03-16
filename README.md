@@ -1,27 +1,7 @@
-# king-rabbit-data-analysis
+# 데이터 분석 리포지토리
 
 
 
-- 데이터 출처 : https://www.kaggle.com/shivamb/netflix-shows 
+개인적으로 진행하고 있는 데이터 분석 프로젝트들을 모은 리포지토리입니다.    
 
-
-
-show_id : Unique ID for every Movie / Tv Show
-
-type : Identifier - A Movie or TV Show
-
-title : Title of the Movie / Tv Show
-
-director : Director of the Movie
-
-cast : Actors involved in the movie / show
-
-country : Country where the movie / show was produced
-
-date_added : Date it was added on Netflix
-
-release_year : Actual Release year of the move / show
-
-rating : TV Rating of the movie / show
-
-duration : Total Duration - in minutes or number of seasons
+데이터 분석 이외에 간단한 튜토리얼도 함께 올리고 있습니다.    
